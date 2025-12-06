@@ -9,14 +9,14 @@
 <!-- Animated header with dark green theme -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
+<!-- Themed welcome banner with dark green gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=45&section=header&text=Welcome%20to%20My%20Profile&fontSize=22&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+
 <!-- Themed role badges with dark green -->
 <img src="https://img.shields.io/badge/Software_Engineer-2E7D32?style=flat-square&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/Full_Stack-1B5E20?style=flat-square&logo=fullpage&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Enthusiast-4CAF50?style=flat-square&logo=brain&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=2E7D32&style=flat-square" alt="Profile views" />
-
-<!-- Themed welcome banner with dark green gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=45&section=header&text=Welcome%20to%20My%20Profile&fontSize=22&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
 </div>
 
