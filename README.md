@@ -34,7 +34,9 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="center">
 
-[![Application Showcase](https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
+### **📹 Click the Image to Watch Application Demo**
+
+[![Application Demo Video - Click to Play](https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
 
 [![Watch on YouTube](https://img.shields.io/badge/▶️_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
 
