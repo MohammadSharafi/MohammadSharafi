@@ -170,14 +170,10 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 <div align="center">
 
-## Quote & Resume
-
 <table>
 <tr>
 <td align="center" width="50%">
   
-### Quote
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=green" alt="Random quote" />
 
 </td>
