@@ -168,11 +168,21 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 ---
 
-<div align="left">
+<div align="center">
 
 ## Quote
 
-> "The best code is not just code that works, but code that others can understand, maintain, and build upon."
+<table>
+<tr>
+<td align="center" width="70%">
+  
+### 💡
+
+> **"The best code is not just code that works, but code that others can understand, maintain, and build upon."**
+
+</td>
+</tr>
+</table>
 
 </div>
 
