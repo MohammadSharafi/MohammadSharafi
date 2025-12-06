@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Animated header -->
+<!-- Animated header with theme colors -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
-<!-- Role badges -->
+<!-- Themed role badges -->
 <img src="https://img.shields.io/badge/💻_Software_Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/🎯_Full_Stack-FF6F00?style=flat-square&logo=fullpage&logoColor=white" />
 <img src="https://img.shields.io/badge/🤖_AI_Enthusiast-6DB33F?style=flat-square&logo=brain&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=flat-square" alt="Profile views" />
 
-<!-- Welcome banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+<!-- Themed welcome banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:FF6F00&height=70&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
 </div>
 
@@ -30,9 +30,9 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 ---
 
-## 🎬 Sample of My Work
-
 <div align="center">
+
+## 🎬 Sample of My Work
 
 <a href="https://www.youtube.com/watch?v=6B5ciUk7uEA" target="_blank">
   <img src="https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg" alt="Application Demo - Click to Play" width="800" />
@@ -42,9 +42,9 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 ---
 
-## 🧠 Core Skills & Technologies
-
 <div align="center">
+
+## 🧠 Core Skills & Technologies
 
 ### **💻 Languages**
 
@@ -90,9 +90,9 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 ---
 
-## 🛠️ Current Project
-
 <div align="center">
+
+## 🛠️ Current Project
 
 ### **🧠 NeuroChain Orchestrator**
 
@@ -106,13 +106,34 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 ---
 
-## 🎯 Engineering Philosophy
-
 <div align="center">
 
-| 🎨 **Design** | ⚡ **Performance** | 🔒 **Privacy** | 🏗️ **Architecture** |
-|:---:|:---:|:---:|:---:|
-| Clean & Thoughtful | Efficient & Scalable | Offline-First | Maintainable |
+## 🎯 Engineering Philosophy
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🎨_Design-4A90E2?style=for-the-badge&logo=figma&logoColor=white" />
+  <br/>
+  <sub><b>Clean & Thoughtful</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/⚡_Performance-FF6F00?style=for-the-badge&logo=speedtest&logoColor=white" />
+  <br/>
+  <sub><b>Efficient & Scalable</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🔒_Privacy-6DB33F?style=for-the-badge&logo=lock&logoColor=white" />
+  <br/>
+  <sub><b>Offline-First</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🏗️_Architecture-7F52FF?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <br/>
+  <sub><b>Maintainable</b></sub>
+</td>
+</tr>
+</table>
 
 **Core Values:** Intelligent Systems • Full-Stack Excellence • Continuous Learning • Production-Grade Code
 
@@ -120,9 +141,9 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 ---
 
-## 📈 GitHub Activity
-
 <div align="center">
+
+## 📈 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadSharafi&theme=radical&hide_border=true&bg_color=0D1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&area_color=4A90E2)
 
@@ -130,9 +151,9 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 ---
 
-## 📩 Let's Connect
-
 <div align="center">
+
+## 📩 Let's Connect
 
 I'm open to collaboration on meaningful, challenging, and high-quality projects.
 
@@ -148,6 +169,6 @@ I'm open to collaboration on meaningful, challenging, and high-quality projects.
 
 ### ⭐ If my work inspires you, feel free to star my projects — I appreciate the support.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:FF6F00&height=60&section=footer&animation=twinkling" />
 
 </div>
