@@ -1,3 +1,12 @@
+<table>
+<tr>
+<td align="left" valign="top" width="15%">
+  
+<img src="resume-qr.png" alt="Resume QR Code" width="120" />
+
+</td>
+<td align="center" valign="top" width="85%">
+  
 <div align="center">
 
 <!-- Animated header with dark green theme -->
@@ -13,6 +22,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=60&section=header&text=Welcome%20to%20My%20Profile&fontSize=26&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -170,24 +183,7 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="middle" width="50%">
-  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=green" alt="Random quote" />
-
-</td>
-<td align="center" valign="middle" width="50%">
-  
-### Resume
-
-Scan the QR code to view my resume.
-
-<img src="resume-qr.png" alt="Resume QR Code" width="200" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
