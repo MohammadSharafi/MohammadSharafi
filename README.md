@@ -34,11 +34,9 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="center">
 
-### **📹 Click the Image to Watch Application Demo**
+### **📹 Application Demo**
 
-[![Application Demo Video - Click to Play](https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
-
-[![Watch on YouTube](https://img.shields.io/badge/▶️_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/6B5ciUk7uEA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
