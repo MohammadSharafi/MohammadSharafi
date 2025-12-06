@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td align="left" valign="top" width="15%">
+<td align="center" valign="top" width="15%">
   
 <img src="resume-qr.png" alt="Resume QR Code" width="120" />
 
