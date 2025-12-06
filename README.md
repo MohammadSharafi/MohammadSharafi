@@ -1,13 +1,22 @@
 <div align="center">
 
-<!-- Animated typing effect header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
+<!-- Creative animated header with icons -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
+
+<!-- Creative animated badges row -->
+<div>
+  <img src="https://img.shields.io/badge/💻_Software_Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯_Full_Stack-FF6F00?style=flat-square&logo=fullpage&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖_AI_Enthusiast-6DB33F?style=flat-square&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/📱_Mobile_Dev-02569B?style=flat-square&logo=mobile&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚙️_Backend-7F52FF?style=flat-square&logo=server&logoColor=white" />
+</div>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=flat-square" alt="Profile views" />
 
-<!-- Animated wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome&fontSize=42&fontAlignY=40&animation=twinkling" />
+<!-- Animated wave with smaller height -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Welcome&fontSize=32&fontAlignY=40&animation=twinkling" />
 
 </div>
 
@@ -157,21 +166,29 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 ---
 
-## 📈 Coding Activity
+## 📈 Coding Activity & Contributions
 
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadSharafi&theme=radical&hide_border=true&bg_color=0D1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&area_color=4A90E2)
 
+### **⚡ Quick Stats**
+
+<div>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=radical&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=6" />
 </div>
 
----
+### **🌟 What I Bring to the Table**
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output/github-contribution-grid-snake.svg)
+<div>
+  <img src="https://img.shields.io/badge/🚀_Always_Learning-4A90E2?style=for-the-badge&logo=book&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡_Problem_Solver-FF6F00?style=for-the-badge&logo=lightbulb&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯_Production_Ready-6DB33F?style=for-the-badge&logo=check-circle&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔧_Full_Stack-7F52FF?style=for-the-badge&logo=tools&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨_Creative_Solutions-FA7343?style=for-the-badge&logo=palette&logoColor=white" />
+</div>
 
 </div>
 
@@ -195,7 +212,7 @@ I'm open to collaboration on meaningful, challenging, and high-quality projects.
 
 ### ⭐ If my work or profile inspires you, feel free to star my projects — I appreciate the support.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
 
 <!-- Random quote generator -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
