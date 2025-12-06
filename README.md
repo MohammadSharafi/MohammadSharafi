@@ -4,13 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
 <!-- Role badges -->
-<div>
-  <img src="https://img.shields.io/badge/💻_Software_Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎯_Full_Stack-FF6F00?style=flat-square&logo=fullpage&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_AI_Enthusiast-6DB33F?style=flat-square&logo=brain&logoColor=white" />
-</div>
-
-<!-- Profile views -->
+<img src="https://img.shields.io/badge/💻_Software_Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/🎯_Full_Stack-FF6F00?style=flat-square&logo=fullpage&logoColor=white" />
+<img src="https://img.shields.io/badge/🤖_AI_Enthusiast-6DB33F?style=flat-square&logo=brain&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=flat-square" alt="Profile views" />
 
 <!-- Welcome banner -->
@@ -24,12 +20,23 @@
 
 ### 💻 Software Engineer • 🎯 Full-Stack Developer • 🤖 AI & Big Data Enthusiast
 
-I'm a **Software Engineer** with comprehensive experience across the entire software development lifecycle.  
-I work with **Python, Java, Kotlin, Swift, Dart, and Big Data systems** to build end-to-end solutions.  
+I'm a **Software Engineer** with comprehensive experience building end-to-end solutions across **Python, Java, Kotlin, Swift, Dart, and Big Data systems**.  
 I've delivered large-scale production systems for enterprise clients, from mobile applications to backend platforms and data-driven solutions.  
-Most of my work is **private and cannot be shared**, but here I focus on building open-source tools, offline-AI systems, and workflow engines.
+Most of my work is **private**, but here I focus on building open-source tools, offline-AI systems, and workflow engines.
 
-I believe in writing software that is clean, thoughtful, efficient, and genuinely useful.
+**I believe in writing software that is clean, thoughtful, efficient, and genuinely useful.**
+
+</div>
+
+---
+
+## 🎬 Sample of My Work
+
+<div align="center">
+
+[![Application Showcase](https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
+
+[![Watch on YouTube](https://img.shields.io/badge/▶️_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
 
 </div>
 
@@ -48,20 +55,19 @@ I believe in writing software that is clean, thoughtful, efficient, and genuinel
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **📱 Mobile Development**
+### **📱 Mobile & Frontend**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### **⚙️ Backend Engineering**
+### **⚙️ Backend & APIs**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 
 ### **🤖 AI & Big Data**
 
@@ -71,55 +77,30 @@ I believe in writing software that is clean, thoughtful, efficient, and genuinel
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
-### **🗄️ Databases**
+### **🗄️ Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **🛠️ Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ What I'm Currently Building
+## 🛠️ Current Project
 
 <div align="center">
 
 ### **🧠 NeuroChain Orchestrator**
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 A local-AI workflow automation engine designed for offline LLMs, private automation, and event-driven workflows.
-
-I enjoy systems where engineering, creativity, and AI overlap.
-
-</div>
-
----
-
-## 🎬 Sample of My Work
-
-<div align="center">
-
-### **📹 Application Showcase**
-
-[![Application Demo](https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
-
-<div>
-
-[![Watch on YouTube](https://img.shields.io/badge/▶️_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
-
-</div>
 
 </div>
 
@@ -129,19 +110,17 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 <div align="center">
 
-- 🧠 **Intelligent Systems**: Building smart solutions that work **offline** and respect user privacy
-- 🎨 **Full-Stack Excellence**: Seamlessly blending mobile elegance with robust backend reliability
-- 🏗️ **Architectural Thinking**: Designing scalable, maintainable systems that stand the test of time
-- 📚 **Continuous Learning**: Deeply exploring new technologies and improving my craft every day
-- 🔒 **Production-Grade**: Writing realistic, privacy-first code that works in real-world scenarios
-- ⚡ **Performance Matters**: Optimizing for speed, efficiency, and user experience
-- 🎯 **Problem Solving**: Focusing on solutions that are genuinely useful and solve real problems
+| 🎨 **Design** | ⚡ **Performance** | 🔒 **Privacy** | 🏗️ **Architecture** |
+|:---:|:---:|:---:|:---:|
+| Clean & Thoughtful | Efficient & Scalable | Offline-First | Maintainable |
+
+**Core Values:** Intelligent Systems • Full-Stack Excellence • Continuous Learning • Production-Grade Code
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -167,7 +146,7 @@ I'm open to collaboration on meaningful, challenging, and high-quality projects.
 
 <div align="center">
 
-### ⭐ If my work or profile inspires you, feel free to star my projects — I appreciate the support.
+### ⭐ If my work inspires you, feel free to star my projects — I appreciate the support.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
 
