@@ -34,11 +34,7 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 ## 📊 GitHub Statistics
 
-### **Profile Overview**
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohammadSharafi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MohammadSharafi)
-
-### **Detailed Stats**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
@@ -46,11 +42,15 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 </div>
 
+---
+
 <div align="center">
 
-### **💻 Top Languages**
+## 💻 Top Languages
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages" />
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,java,kotlin,swift,dart,javascript,typescript,html,css,c,cpp,bash&includeNames=true&theme=nautilus)](https://github.com/MohammadSharafi)
+
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages by Usage" />
 
 </div>
 
@@ -70,11 +70,7 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="center">
 
-## 🧠 Core Skills & Technologies
-
-### **💻 Programming Languages**
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,java,kotlin,swift,dart,javascript,typescript,html,css,c,cpp,bash&includeNames=true&theme=nautilus)](https://github.com/MohammadSharafi)
+## 🧠 Skills & Technologies
 
 ### **📱 Frameworks & Mobile**
 
