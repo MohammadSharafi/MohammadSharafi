@@ -176,9 +176,22 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 <tr>
 <td align="center" width="70%">
   
-### 💡
+<table>
+<tr>
+<td align="center">
+  
+### 💡 **Inspiration**
 
+</td>
+</tr>
+<tr>
+<td align="center">
+  
 > **"The best code is not just code that works, but code that others can understand, maintain, and build upon."**
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
