@@ -40,12 +40,6 @@ Most of my work is **private**, but here I focus on building open-source tools, 
   <img src="https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg" alt="Application Demo - Click to Play" width="800" />
 </a>
 
-<div>
-
-[![Watch Video](https://img.shields.io/badge/▶️_Play_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
-
-</div>
-
 </div>
 
 ---
