@@ -1,38 +1,20 @@
 <div align="center">
 
-<!-- Creative animated header with icons -->
+<!-- Animated header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
-<!-- Creative animated badges row -->
+<!-- Role badges -->
 <div>
   <img src="https://img.shields.io/badge/💻_Software_Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Full_Stack-FF6F00?style=flat-square&logo=fullpage&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖_AI_Enthusiast-6DB33F?style=flat-square&logo=brain&logoColor=white" />
-  <img src="https://img.shields.io/badge/📱_Mobile_Dev-02569B?style=flat-square&logo=mobile&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚙️_Backend-7F52FF?style=flat-square&logo=server&logoColor=white" />
 </div>
 
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=flat-square" alt="Profile views" />
 
-<!-- Creative Welcome Section with multiple animated elements -->
-<div>
-  
-  <!-- Animated gradient banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=✨%20Welcome%20to%20My%20Profile%20✨&fontSize=32&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
-  
-  <!-- Animated divider with stars -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=500&lines=🚀%20Building%20the%20Future%20with%20Code%20🚀" alt="Welcome message" />
-  
-  <!-- Animated icons row -->
-  <div>
-    <img src="https://img.shields.io/badge/🌟_Innovation-FFD700?style=flat-square&logo=star&logoColor=black" />
-    <img src="https://img.shields.io/badge/💡_Creativity-FF6F00?style=flat-square&logo=lightbulb&logoColor=white" />
-    <img src="https://img.shields.io/badge/⚡_Excellence-4A90E2?style=flat-square&logo=zap&logoColor=white" />
-    <img src="https://img.shields.io/badge/🎯_Precision-6DB33F?style=flat-square&logo=target&logoColor=white" />
-  </div>
-  
-</div>
+<!-- Welcome banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
 </div>
 
@@ -129,62 +111,15 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 <div align="center">
 
-### **📹 Watch My Application in Action**
-
 [![YouTube Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
-
-<div>
-  <a href="https://www.youtube.com/watch?v=6B5ciUk7uEA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" />
-  </a>
-</div>
 
 </div>
 
 ---
 
-## 🎯 Engineering Philosophy & Focus
+## 🎯 Engineering Philosophy
 
 <div align="center">
-
-### **Core Principles**
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🎨_Design-Clean_%26_Thoughtful-4A90E2?style=for-the-badge&logo=figma&logoColor=white" />
-  <br/>
-  <sub><b>Clean Design</b></sub>
-  <br/>
-  <sub>Thoughtful UX/UI</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/⚡_Performance-Efficient_%26_Fast-FF6F00?style=for-the-badge&logo=speedtest&logoColor=white" />
-  <br/>
-  <sub><b>High Performance</b></sub>
-  <br/>
-  <sub>Optimized & Scalable</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🔒_Privacy-Offline_First-6DB33F?style=for-the-badge&logo=lock&logoColor=white" />
-  <br/>
-  <sub><b>Privacy First</b></sub>
-  <br/>
-  <sub>Local & Secure</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🏗️_Architecture-Maintainable-7F52FF?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-  <br/>
-  <sub><b>Solid Architecture</b></sub>
-  <br/>
-  <sub>Scalable & Clean</sub>
-</td>
-</tr>
-</table>
-
-### **What Drives My Work**
-
-<div align="left" style="max-width: 800px; margin: 0 auto;">
 
 - 🧠 **Intelligent Systems**: Building smart solutions that work **offline** and respect user privacy
 - 🎨 **Full-Stack Excellence**: Seamlessly blending mobile elegance with robust backend reliability
@@ -196,33 +131,13 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 </div>
 
-</div>
-
 ---
 
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-### **📊 Activity Overview**
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadSharafi&theme=radical&hide_border=true&bg_color=0D1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&area_color=4A90E2)
-
-</div>
-
----
-
-## 🌟 What I Bring to the Table
-
-<div align="center">
-
-<div>
-  <img src="https://img.shields.io/badge/🚀_Always_Learning-4A90E2?style=for-the-badge&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/💡_Problem_Solver-FF6F00?style=for-the-badge&logo=lightbulb&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎯_Production_Ready-6DB33F?style=for-the-badge&logo=check-circle&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔧_Full_Stack-7F52FF?style=for-the-badge&logo=tools&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎨_Creative_Solutions-FA7343?style=for-the-badge&logo=palette&logoColor=white" />
-</div>
 
 </div>
 
@@ -246,9 +161,6 @@ I'm open to collaboration on meaningful, challenging, and high-quality projects.
 
 ### ⭐ If my work or profile inspires you, feel free to star my projects — I appreciate the support.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&animation=twinkling" />
-
-<!-- Random quote generator -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
 
 </div>
