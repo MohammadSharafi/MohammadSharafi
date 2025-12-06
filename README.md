@@ -27,8 +27,6 @@
 </tr>
 </table>
 
----
-
 <div align="left">
 
 ### Software Engineer • Full-Stack Developer • AI & Big Data Enthusiast
@@ -52,8 +50,6 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 </a>
 
 </div>
-
----
 
 <div align="left">
 
@@ -94,8 +90,6 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 </div>
 
----
-
 <div align="left">
 
 ## Featured Projects
@@ -116,8 +110,6 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 </div>
 
----
-
 <div align="left">
 
 ## Currently Learning
@@ -128,8 +120,6 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 - Cloud-native development practices
 
 </div>
-
----
 
 <div align="left">
 
@@ -143,8 +133,6 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 **DevOps:** Docker, Git, CI/CD, AWS, Linux
 
 </div>
-
----
 
 <div align="left">
 
@@ -179,8 +167,6 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 </div>
 
----
-
 <div align="left">
 
 ## Let's Connect
@@ -192,8 +178,6 @@ I'm open to collaboration on meaningful, challenging, and high-quality projects.
 [![GitHub](https://img.shields.io/badge/GitHub-MohammadSharafi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohammadSharafi)
 
 </div>
-
----
 
 <div align="center">
 
