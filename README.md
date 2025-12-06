@@ -85,7 +85,7 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="left">
 
-## Current Project
+## Featured Projects
 
 ### NeuroChain Orchestrator
 
@@ -94,6 +94,40 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 A local-AI workflow automation engine designed for offline LLMs, private automation, and event-driven workflows.
+
+### Other Projects
+
+- **FocusCraft** - Productivity and focus management application
+- **SynapseGrid** - Distributed workflow orchestration system
+- **PocketMind** - Local AI-powered knowledge management
+
+</div>
+
+---
+
+<div align="left">
+
+## Currently Learning
+
+- Advanced LLM fine-tuning and optimization techniques
+- Distributed systems architecture patterns
+- Performance optimization for mobile applications
+- Cloud-native development practices
+
+</div>
+
+---
+
+<div align="left">
+
+## Tech Stack Summary
+
+**Frontend:** Flutter, React, Next.js, Angular  
+**Backend:** Spring Boot, FastAPI, Django, Express.js  
+**Mobile:** Flutter, Android (Kotlin), iOS (Swift)  
+**AI/ML:** Python, ONNX, Local LLMs, Pandas, NumPy  
+**Databases:** PostgreSQL, MongoDB, Firebase, Redis  
+**DevOps:** Docker, Git, CI/CD, AWS, Linux
 
 </div>
 
@@ -129,6 +163,16 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 </table>
 
 **Core Values:** Intelligent Systems • Full-Stack Excellence • Continuous Learning • Production-Grade Code
+
+</div>
+
+---
+
+<div align="left">
+
+## Quote
+
+> "The best code is not just code that works, but code that others can understand, maintain, and build upon."
 
 </div>
 
