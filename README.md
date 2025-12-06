@@ -32,9 +32,25 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="center">
 
-## 📊 GitHub Profile Stats
+## 📊 GitHub Statistics
+
+### **Profile Overview**
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohammadSharafi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MohammadSharafi)
+
+### **Detailed Stats**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=radical&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+### **💻 Top Languages**
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages" />
 
 </div>
 
@@ -83,7 +99,7 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 ## 🛠️ Current Project
 
-### **🧠 NeuroChain Orchestrator**
+### **🧠 NeuroChain Orchestrator**  
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
