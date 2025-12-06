@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Animated header with theme colors -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
+<!-- Animated header with dark green theme -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
-<!-- Themed role badges -->
-<img src="https://img.shields.io/badge/Software_Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/Full_Stack-FF6F00?style=flat-square&logo=fullpage&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Enthusiast-6DB33F?style=flat-square&logo=brain&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=flat-square" alt="Profile views" />
+<!-- Themed role badges with dark green -->
+<img src="https://img.shields.io/badge/Software_Engineer-2E7D32?style=flat-square&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/Full_Stack-1B5E20?style=flat-square&logo=fullpage&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Enthusiast-4CAF50?style=flat-square&logo=brain&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=2E7D32&style=flat-square" alt="Profile views" />
 
-<!-- Themed welcome banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:FF6F00&height=60&section=header&text=Welcome%20to%20My%20Profile&fontSize=26&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+<!-- Themed welcome banner with dark green gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=60&section=header&text=Welcome%20to%20My%20Profile&fontSize=26&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
 </div>
 
@@ -36,44 +36,6 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <a href="https://www.youtube.com/watch?v=6B5ciUk7uEA" target="_blank">
   <img src="https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg" alt="Application Demo - Click to Play" width="800" />
-</a>
-
-</div>
-
----
-
-<div align="left">
-
-## GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=default&hide_border=true&background=ffffff&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="left">
-
-## Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4A90E2&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="left">
-
-## Top Repositories
-
-<a href="https://github.com/MohammadSharafi/neurochain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadSharafi&repo=neurochain&theme=default&hide_border=true&bg_color=ffffff&title_color=4A90E2&icon_color=4A90E2" />
-</a>
-
-<a href="https://github.com/MohammadSharafi/focuscraft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadSharafi&repo=focuscraft&theme=default&hide_border=true&bg_color=ffffff&title_color=4A90E2&icon_color=4A90E2" />
 </a>
 
 </div>
@@ -144,22 +106,22 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Design-4A90E2?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-2E7D32?style=flat-square&logo=figma&logoColor=white" />
   <br/>
   <sub><b>Clean & Thoughtful</b></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Performance-FF6F00?style=flat-square&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance-1B5E20?style=flat-square&logo=speedtest&logoColor=white" />
   <br/>
   <sub><b>Efficient & Scalable</b></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Privacy-6DB33F?style=flat-square&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Privacy-4CAF50?style=flat-square&logo=lock&logoColor=white" />
   <br/>
   <sub><b>Offline-First</b></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Architecture-7F52FF?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-388E3C?style=flat-square&logo=diagrams.net&logoColor=white" />
   <br/>
   <sub><b>Maintainable</b></sub>
 </td>
@@ -167,16 +129,6 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 </table>
 
 **Core Values:** Intelligent Systems • Full-Stack Excellence • Continuous Learning • Production-Grade Code
-
-</div>
-
----
-
-<div align="left">
-
-## GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadSharafi&theme=default&hide_border=true&bg_color=ffffff&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&area_color=4A90E2)
 
 </div>
 
@@ -200,6 +152,6 @@ I'm open to collaboration on meaningful, challenging, and high-quality projects.
 
 ### If my work inspires you, feel free to star my projects — I appreciate the support.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:FF6F00&height=50&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=50&section=footer&animation=twinkling" />
 
 </div>
