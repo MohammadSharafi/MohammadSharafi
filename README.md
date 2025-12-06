@@ -172,12 +172,12 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="middle" width="50%">
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=green" alt="Random quote" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="middle" width="50%">
   
 ### Resume
 
