@@ -1,29 +1,104 @@
-# Hi, I'm Mohammad Sharafi 👋
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm <strong>Mohammad Sharafi</strong></h1>
+<h3 align="center">Software Engineer • Mobile Dev • Backend Builder • AI Explorer</h3>
 
-### 🩺 Software Engineer | Mobile Development Specialist 
-I bring 6+ years of experience in **Digital Health** and **Fintech**, focused on building scalable, high-performance, and compliant mobile applications.
+<p align="center">
+  <em>I build intelligent, scalable, and offline-first systems powered by Flutter, Java, and AI.</em>
+</p>
 
----
+<br/>
 
-### My Unique Value Proposition:
+<!-- ABOUT ME -->
+## 🚀 About Me
 
-* [cite_start]**🏆 Award-Winning Innovation:** Led development of an **AI-powered health assistant** that earned the 2025 Best Pain Management Technology award[cite: 5, 32, 54].
-* [cite_start]**⚡ Performance & Optimization:** Optimized cloud integrations (Firebase/AWS) to **reduce API latency by 50%** and boost app performance by 30%[cite: 12, 33].
-* [cite_start]**🔒 Security & Compliance:** Engineered **HIPAA-compliant** payment modules, reducing fraud by 40%[cite: 11, 34].
-* [cite_start]**📈 Full-Stack Mobile Stack:** Expert in **Flutter, Dart, Android (Java/Kotlin),** and implementing robust architectures like **BLOC/MVVM**[cite: 17, 19].
+Hi! I'm **Mohammad**, a developer who loves turning complex ideas into smooth, fast, and smart experiences.  
+From **award-winning digital health apps** to **secure backend systems**, I focus on creating software that actually matters.
 
-### 🛠️ Core Technologies:
+Currently, I'm exploring **local AI**, **workflow orchestration**, and **distributed automation** — building tools that think, adapt, and work offline.
 
-| Area | Expertise |
-| :--- | :--- |
-| **Mobile** | [cite_start]Flutter, Dart, Android (Java/Kotlin) [cite: 17] |
-| **Backend/Cloud** | [cite_start]Firebase, AWS (S3, Cloud Functions), RESTful APIs [cite: 18] |
-| **Data/ML** | [cite_start]Python, Pandas, NumPy, Machine Learning (In Progress) [cite: 14, 21] |
+<br/>
 
----
+<!-- TECH STACK -->
+## 🧰 Tech Arsenal
 
-### Connect with me:
+<div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL) 
-* [cite_start]Currently advancing expertise in **Data Science** and **ethical AI**[cite: 7, 57].
-* [cite_start]Open to specialized roles in the U.S. focused on data-driven healthcare solutions[cite: 8].
+**Languages**  
+🟩 Dart • 🟨 Java • 🟦 Python • 🟧 Kotlin • ⚪ JS
+
+**Mobile**  
+📱 Flutter • Android (Native)
+
+**Backend**  
+🛰 Spring Boot • REST • GraphQL • Microservices
+
+**AI / Data**  
+🧠 Python • Pandas • ONNX • Local LLMs (GGUF) • Whisper • Embeddings
+
+**Database**  
+🗄 PostgreSQL • MongoDB • Firebase
+
+**Tools**  
+⚙ Git • Docker • CI/CD • Firebase • AWS S3
+
+</div>
+
+<br/>
+
+<!-- MY FOCUS -->
+## 🔥 What I'm Building Now
+
+### **🧠 NeuroChain Orchestrator**  
+A visual, offline, local-AI workflow engine using  
+**Flutter + Spring Boot + Python**,  
+designed to automate tasks with on-device LLMs, vision models, and event-driven pipelines.
+
+Think: *Zapier + Node-RED + Local AI.*
+
+<br/>
+
+<!-- HIGHLIGHTS -->
+## ✨ Highlights & Achievements
+
+- 🚑 Built **digital health platforms** used by thousands  
+- 🏆 Developed an AI assistant recognized for innovation in women’s health  
+- 🛡 Created **HIPAA-compliant** secure systems  
+- 🚀 Improved app and API performance by **50%+**  
+- 📱 Delivered **10+ production-grade mobile apps**  
+- 🔐 Reduced fraud by **40%** with secure backend architecture  
+
+<br/>
+
+<!-- CURRENT GOALS -->
+## 🎯 Current Goals
+
+- Master local AI pipelines  
+- Build intelligent offline-first systems  
+- Level up in machine learning & data engineering  
+- Create real-world automation with distributed AI workers  
+
+<br/>
+
+<!-- FUN SECTION -->
+## 🧩 Fun Developer Facts
+
+- I love working on **high-challenge projects**  
+- I enjoy mixing **backend power** with **mobile elegance**  
+- AI that runs offline fascinates me  
+- I believe clean code = clean mind  
+- I break things fast so I can build them even better  
+
+<br/>
+
+<!-- CONTACT -->
+## 📫 Let's Connect
+
+If you want to collaborate on **AI tools**, **mobile apps**, or **backend systems**, feel free to reach out.  
+I'm always open to interesting ideas and challenging projects.
+
+<br/>
+
+<!-- FOOTER -->
+<p align="center">
+  ⭐️ If you like my work, consider giving my repositories a star — it helps a lot!
+</p>
