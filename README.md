@@ -16,7 +16,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### Software Engineer • Full-Stack Developer • AI & Big Data Enthusiast
 
@@ -42,41 +42,41 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 ---
 
-<div align="center">
+<div align="left">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohammadSharafi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MohammadSharafi)
+## GitHub Statistics
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true)
 
-<img height="160em" src="https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=radical&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=default&hide_border=true&background=ffffff&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Top Languages
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,java,kotlin,swift,dart,javascript,typescript,html,css,c,cpp,bash&includeNames=true&theme=nautilus)](https://github.com/MohammadSharafi)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,java,kotlin,swift,dart,javascript,typescript,html,css,c,cpp,bash&includeNames=true&theme=default)](https://github.com/MohammadSharafi)
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages by Usage" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4A90E2&langs_count=10&exclude_repo=github-readme-stats)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Skills & Technologies
 
 ### Frameworks & Mobile
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=flutter,react,next,django,express,angular,dotnetcore,ionic&includeNames=true&theme=nautilus)](https://github.com/MohammadSharafi)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=flutter,react,next,django,express,angular,dotnetcore,ionic&includeNames=true&theme=default)](https://github.com/MohammadSharafi)
 
 ### Tools & DevOps
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,aws,gradle,prettier&includeNames=true&theme=nautilus)](https://github.com/MohammadSharafi)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,aws,gradle,prettier&includeNames=true&theme=default)](https://github.com/MohammadSharafi)
 
 ### Databases
 
@@ -89,7 +89,7 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Current Project
 
@@ -105,7 +105,7 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Engineering Philosophy
 
@@ -140,17 +140,17 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadSharafi&theme=radical&hide_border=true&bg_color=0D1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&area_color=4A90E2)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadSharafi&theme=default&hide_border=true&bg_color=ffffff&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&area_color=4A90E2)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Let's Connect
 
