@@ -170,44 +170,28 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 <div align="center">
 
-## Quote
+## Quote & Resume
 
 <table>
 <tr>
-<td align="center" width="70%">
+<td align="center" width="50%">
   
-<table>
-<tr>
-<td align="center">
-  
-### 💡 **Inspiration**
+### Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=green" alt="Random quote" />
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td align="center" width="50%">
   
-> **"The best code is not just code that works, but code that others can understand, maintain, and build upon."**
+### Resume
+
+Scan the QR code to view my resume.
+
+<img src="resume-qr.png" alt="Resume QR Code" width="200" />
 
 </td>
 </tr>
 </table>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## Resume
-
-Scan the QR code below to view or download my resume.
-
-<img src="resume-qr.png" alt="Resume QR Code" width="250" />
 
 </div>
 
