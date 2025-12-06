@@ -210,26 +210,6 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 </div>
 
-<div align="center">
-
-### **⚡ Quick Stats**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=radical&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=8" alt="Top Languages" />
-
-</div>
-
-</div>
-
 ---
 
 ## 🌟 What I Bring to the Table
