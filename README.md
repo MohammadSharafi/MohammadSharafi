@@ -34,8 +34,6 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="center">
 
-### **📹 Application Demo**
-
 <a href="https://www.youtube.com/watch?v=6B5ciUk7uEA" target="_blank">
   <img src="https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg" alt="Application Demo - Click to Play" width="800" />
 </a>
