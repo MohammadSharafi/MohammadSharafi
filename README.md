@@ -32,8 +32,6 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="center">
 
-## GitHub Statistics
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohammadSharafi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MohammadSharafi)
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
