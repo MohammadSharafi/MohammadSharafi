@@ -68,6 +68,22 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="left">
 
+## Top Repositories
+
+<a href="https://github.com/MohammadSharafi/neurochain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadSharafi&repo=neurochain&theme=default&hide_border=true&bg_color=ffffff&title_color=4A90E2&icon_color=4A90E2" />
+</a>
+
+<a href="https://github.com/MohammadSharafi/focuscraft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadSharafi&repo=focuscraft&theme=default&hide_border=true&bg_color=ffffff&title_color=4A90E2&icon_color=4A90E2" />
+</a>
+
+</div>
+
+---
+
+<div align="left">
+
 ## Skills & Technologies
 
 ### Frameworks & Mobile
