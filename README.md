@@ -32,6 +32,16 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 <div align="center">
 
+## 📊 GitHub Profile Stats
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohammadSharafi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MohammadSharafi)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🎬 Sample of My Work
 
 <a href="https://www.youtube.com/watch?v=6B5ciUk7uEA" target="_blank">
@@ -46,45 +56,24 @@ Most of my work is **private**, but here I focus on building open-source tools, 
 
 ## 🧠 Core Skills & Technologies
 
-### **💻 Languages**
+### **💻 Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,java,kotlin,swift,dart,javascript,typescript,html,css,c,cpp,bash&includeNames=true&theme=nautilus)](https://github.com/MohammadSharafi)
 
-### **📱 Mobile & Frontend**
+### **📱 Frameworks & Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=flutter,react,next,django,express,angular,dotnetcore,ionic&includeNames=true&theme=nautilus)](https://github.com/MohammadSharafi)
 
-### **⚙️ Backend & APIs**
+### **🛠️ Tools & DevOps**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,aws,gradle,prettier&includeNames=true&theme=nautilus)](https://github.com/MohammadSharafi)
 
-### **🤖 AI & Big Data**
-
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-
-### **🗄️ Databases & Tools**
+### **🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
