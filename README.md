@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing effect header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer+%E2%80%A2+Mobile+Developer;Backend+Engineer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
 <!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=for-the-badge" alt="Profile views" />
@@ -15,29 +15,14 @@
 
 <div align="center">
 
-### 💼 Software Engineer • 📱 Mobile Developer • ⚙️ Backend Engineer • 🤖 Big Data & AI Enthusiast
+### 💻 Software Engineer • 🎯 Full-Stack Developer • 🤖 AI & Big Data Enthusiast
 
-I'm a software engineer with strong experience across **Python, Java, Kotlin, Swift, Dart, and Big Data systems**.  
-I've worked on large-scale production systems for enterprise clients, including high-performance mobile apps, backend platforms, and data-driven solutions.  
+I'm a **Software Engineer** with comprehensive experience across the entire software development lifecycle.  
+I work with **Python, Java, Kotlin, Swift, Dart, and Big Data systems** to build end-to-end solutions.  
+I've delivered large-scale production systems for enterprise clients, from mobile applications to backend platforms and data-driven solutions.  
 Most of my work is **private and cannot be shared**, but here I focus on building open-source tools, offline-AI systems, and workflow engines.
 
 I believe in writing software that is clean, thoughtful, efficient, and genuinely useful.
-
-</div>
-
----
-
-## 📊 GitHub Stats & Achievements
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=radical&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=8)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammadSharafi&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -115,25 +100,64 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 ---
 
-## 🎯 What I Focus On
+## 🎯 Engineering Philosophy & Focus
 
 <div align="center">
 
-| 🎨 **Design** | ⚡ **Performance** | 🔒 **Privacy** | 🏗️ **Architecture** |
-|:---:|:---:|:---:|:---:|
-| Clean & Thoughtful | Efficient & Scalable | Offline-First | Maintainable |
+### **Core Principles**
 
-- 🧠 Building intelligent systems that work **offline**  
-- 🎨 Mixing mobile elegance with backend reliability  
-- 🏗️ Designing scalable, maintainable architectures  
-- 📚 Learning deeply and improving consistently  
-- 🔒 Privacy-first, realistic, production-grade engineering  
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🎨_Design-Clean_%26_Thoughtful-4A90E2?style=for-the-badge&logo=figma&logoColor=white" />
+  <br/>
+  <sub><b>Clean Design</b></sub>
+  <br/>
+  <sub>Thoughtful UX/UI</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/⚡_Performance-Efficient_%26_Fast-FF6F00?style=for-the-badge&logo=speedtest&logoColor=white" />
+  <br/>
+  <sub><b>High Performance</b></sub>
+  <br/>
+  <sub>Optimized & Scalable</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🔒_Privacy-Offline_First-6DB33F?style=for-the-badge&logo=lock&logoColor=white" />
+  <br/>
+  <sub><b>Privacy First</b></sub>
+  <br/>
+  <sub>Local & Secure</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🏗️_Architecture-Maintainable-7F52FF?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <br/>
+  <sub><b>Solid Architecture</b></sub>
+  <br/>
+  <sub>Scalable & Clean</sub>
+</td>
+</tr>
+</table>
+
+### **What Drives My Work**
+
+<div align="left" style="max-width: 800px; margin: 0 auto;">
+
+- 🧠 **Intelligent Systems**: Building smart solutions that work **offline** and respect user privacy
+- 🎨 **Full-Stack Excellence**: Seamlessly blending mobile elegance with robust backend reliability
+- 🏗️ **Architectural Thinking**: Designing scalable, maintainable systems that stand the test of time
+- 📚 **Continuous Learning**: Deeply exploring new technologies and improving my craft every day
+- 🔒 **Production-Grade**: Writing realistic, privacy-first code that works in real-world scenarios
+- ⚡ **Performance Matters**: Optimizing for speed, efficiency, and user experience
+- 🎯 **Problem Solving**: Focusing on solutions that are genuinely useful and solve real problems
+
+</div>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Coding Activity
 
 <div align="center">
 
@@ -147,7 +171,7 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 <div align="center">
 
-![Snake animation](https://github.com/MohammadSharafi/MohammadSharafi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -160,6 +184,7 @@ I enjoy systems where engineering, creativity, and AI overlap.
 I'm open to collaboration on meaningful, challenging, and high-quality projects.
 
 [![Email](https://img.shields.io/badge/Email-mohammadsharafi.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadsharafi.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Sharafi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadsharafi/)
 [![GitHub](https://img.shields.io/badge/GitHub-MohammadSharafi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadSharafi)
 
 </div>
