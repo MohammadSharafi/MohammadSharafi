@@ -181,14 +181,6 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 ---
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=green&quote=The%20best%20code%20is%20not%20just%20code%20that%20works%2C%20but%20code%20that%20others%20can%20understand%2C%20maintain%2C%20and%20build%20upon.&author=Mohammad%20Sharafi" alt="Quote" />
-
-</div>
-
----
-
 <div align="left">
 
 ## Let's Connect
