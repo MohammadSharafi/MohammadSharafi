@@ -1,12 +1,9 @@
-<table>
-<tr>
-<td align="center" valign="top" width="15%">
-  
+<div align="left">
+
 <img src="resume-qr.png" alt="Resume QR Code" width="120" />
 
-</td>
-<td align="center" valign="top" width="85%">
-  
+</div>
+
 <div align="center">
 
 <!-- Animated header with dark green theme -->
@@ -22,10 +19,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=60&section=header&text=Welcome%20to%20My%20Profile&fontSize=26&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <div align="left">
 
