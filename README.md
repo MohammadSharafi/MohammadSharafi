@@ -107,11 +107,19 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 ---
 
-## 🎥 Project Demo
+## 🎬 Sample of My Work
 
 <div align="center">
 
-[![YouTube Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
+### **📹 Application Showcase**
+
+[![Application Demo](https://img.youtube.com/vi/6B5ciUk7uEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
+
+<div>
+
+[![Watch on YouTube](https://img.shields.io/badge/▶️_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
+
+</div>
 
 </div>
 
