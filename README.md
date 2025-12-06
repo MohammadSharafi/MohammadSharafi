@@ -1,14 +1,14 @@
 <table>
 <tr>
-<td align="left" valign="top">
+<td align="left" valign="top" width="12%">
   
-<img src="resume-qr.png" alt="Resume QR Code" width="120" />
+<img src="resume-qr.png" alt="Resume QR Code" width="80" />
 
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="88%">
   
 <!-- Animated header with dark green theme -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
 <!-- Themed role badges with dark green -->
 <img src="https://img.shields.io/badge/Software_Engineer-2E7D32?style=flat-square&logo=code&logoColor=white" />
@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=2E7D32&style=flat-square" alt="Profile views" />
 
 <!-- Themed welcome banner with dark green gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=60&section=header&text=Welcome%20to%20My%20Profile&fontSize=26&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=45&section=header&text=Welcome%20to%20My%20Profile&fontSize=22&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
 </td>
 </tr>
