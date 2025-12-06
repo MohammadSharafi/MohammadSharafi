@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Professional animated header -->
+<!-- Creative animated header with icons -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
-<!-- Professional role badges -->
+<!-- Creative animated badges row -->
 <div>
   <img src="https://img.shields.io/badge/💻_Software_Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Full_Stack-FF6F00?style=flat-square&logo=fullpage&logoColor=white" />
@@ -15,9 +15,23 @@
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=flat-square" alt="Profile views" />
 
-<!-- Professional welcome banner -->
+<!-- Creative Welcome Section with multiple animated elements -->
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=65&section=header&text=Welcome%20to%20My%20Profile&fontSize=28&fontAlign=50&fontAlignY=35&animation=twinkling" />
+  
+  <!-- Animated gradient banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=✨%20Welcome%20to%20My%20Profile%20✨&fontSize=32&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  
+  <!-- Animated divider with stars -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=500&lines=🚀%20Building%20the%20Future%20with%20Code%20🚀" alt="Welcome message" />
+  
+  <!-- Animated icons row -->
+  <div>
+    <img src="https://img.shields.io/badge/🌟_Innovation-FFD700?style=flat-square&logo=star&logoColor=black" />
+    <img src="https://img.shields.io/badge/💡_Creativity-FF6F00?style=flat-square&logo=lightbulb&logoColor=white" />
+    <img src="https://img.shields.io/badge/⚡_Excellence-4A90E2?style=flat-square&logo=zap&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎯_Precision-6DB33F?style=flat-square&logo=target&logoColor=white" />
+  </div>
+  
 </div>
 
 </div>
@@ -106,6 +120,24 @@ I believe in writing software that is clean, thoughtful, efficient, and genuinel
 A local-AI workflow automation engine designed for offline LLMs, private automation, and event-driven workflows.
 
 I enjoy systems where engineering, creativity, and AI overlap.
+
+</div>
+
+---
+
+## 🎥 Project Demo
+
+<div align="center">
+
+### **📹 Watch My Application in Action**
+
+[![YouTube Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6B5ciUk7uEA)
+
+<div>
+  <a href="https://www.youtube.com/watch?v=6B5ciUk7uEA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" />
+  </a>
+</div>
 
 </div>
 
