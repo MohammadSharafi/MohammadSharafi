@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Creative animated header with icons -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
+<!-- Professional animated header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammad+Sharafi;Software+Engineer;Full-Stack+Developer+%E2%80%A2+AI+Enthusiast" alt="Typing SVG" />
 
-<!-- Creative animated badges row -->
+<!-- Professional role badges -->
 <div>
   <img src="https://img.shields.io/badge/💻_Software_Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Full_Stack-FF6F00?style=flat-square&logo=fullpage&logoColor=white" />
@@ -12,11 +12,13 @@
   <img src="https://img.shields.io/badge/⚙️_Backend-7F52FF?style=flat-square&logo=server&logoColor=white" />
 </div>
 
-<!-- Profile views counter -->
+<!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=MohammadSharafi&color=4A90E2&style=flat-square" alt="Profile views" />
 
-<!-- Animated wave with smaller height -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Welcome&fontSize=32&fontAlignY=40&animation=twinkling" />
+<!-- Professional welcome banner -->
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=65&section=header&text=Welcome%20to%20My%20Profile&fontSize=28&fontAlign=50&fontAlignY=35&animation=twinkling" />
+</div>
 
 </div>
 
@@ -43,7 +45,7 @@ I believe in writing software that is clean, thoughtful, efficient, and genuinel
 
 ### **💻 Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -166,21 +168,41 @@ I enjoy systems where engineering, creativity, and AI overlap.
 
 ---
 
-## 📈 Coding Activity & Contributions
+## 📈 GitHub Statistics
 
 <div align="center">
 
+### **📊 Activity Overview**
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadSharafi&theme=radical&hide_border=true&bg_color=0D1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&area_color=4A90E2)
+
+</div>
+
+<div align="center">
 
 ### **⚡ Quick Stats**
 
-<div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=radical&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=6" />
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=MohammadSharafi&theme=radical&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
+
 </div>
 
-### **🌟 What I Bring to the Table**
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&langs_count=8" alt="Top Languages" />
+
+</div>
+
+</div>
+
+---
+
+## 🌟 What I Bring to the Table
+
+<div align="center">
 
 <div>
   <img src="https://img.shields.io/badge/🚀_Always_Learning-4A90E2?style=for-the-badge&logo=book&logoColor=white" />
@@ -212,7 +234,7 @@ I'm open to collaboration on meaningful, challenging, and high-quality projects.
 
 ### ⭐ If my work or profile inspires you, feel free to star my projects — I appreciate the support.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&animation=twinkling" />
 
 <!-- Random quote generator -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
