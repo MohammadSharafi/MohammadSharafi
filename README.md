@@ -188,16 +188,13 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 ---
 
-<div align="left">
+<div align="center">
 
 ## Resume
 
-<div align="center">
+Scan the QR code below to view or download my resume.
 
-<!-- Add your resume QR code image here -->
-<img src="resume-qr.png" alt="Resume QR Code" width="200" />
-
-</div>
+<img src="resume-qr.png" alt="Resume QR Code" width="250" />
 
 </div>
 
