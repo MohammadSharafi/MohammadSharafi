@@ -180,6 +180,21 @@ A local-AI workflow automation engine designed for offline LLMs, private automat
 
 <div align="left">
 
+## Resume
+
+<div align="center">
+
+<!-- Add your resume QR code image here -->
+<img src="resume-qr.png" alt="Resume QR Code" width="200" />
+
+</div>
+
+</div>
+
+---
+
+<div align="left">
+
 ## Let's Connect
 
 I'm open to collaboration on meaningful, challenging, and high-quality projects.
