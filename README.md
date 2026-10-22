@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=4">
-  <img src="assets/banner-light.svg?v=4" width="100%" align="top" alt="Mohammad Sharafi: software engineer, backend systems, mobile apps, privacy-first AI">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=5">
+  <img src="assets/banner-light.svg?v=5" width="100%" align="top" alt="Mohammad Sharafi: software engineer, backend systems, mobile apps, privacy-first AI">
 </picture>
 
 <a href="https://github.com/MohammadSharafi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E88866&center=true&vCenter=true&width=720&height=40&lines=Building+self-hosted+AI+tools;Shipping+Flutter+%26+SwiftUI+apps;Distributed+systems+in+Java+%26+Go;Privacy+engineering%2C+measured;Every+claim+gets+a+number" alt="Building self-hosted AI tools. Shipping Flutter and SwiftUI apps. Distributed systems in Java and Go. Privacy engineering, measured. Every claim gets a number."></a>
@@ -12,30 +12,30 @@
 
 </div>
 
-## 👋 About
+## About
 
-<p align="center"><img src="assets/terminal.svg?v=4" width="100%" align="top" alt="Terminal: software engineer focused on backend systems, mobile apps and privacy-first AI; recent projects Tether, Stress Twin, NodeFlow, neurochain-orchestrator; motto: every claim gets a number"></p>
+<p align="center"><img src="assets/terminal.svg?v=5" width="100%" align="top" alt="Terminal: software engineer focused on backend systems, mobile apps and privacy-first AI; recent projects Tether, Stress Twin, NodeFlow, neurochain-orchestrator; motto: every claim gets a number"></p>
 
 I build backend systems, mobile apps and AI tools that run where the data lives: on-device models,
 offline workflows and self-hosted servers. Java · Python · Dart/Flutter · Swift · Go (learning in public).
 
-## 🚀 Recent
+## Recent
 
-<p><a href="https://github.com/MohammadSharafi/tether"><img src="assets/card-tether.svg?v=4" width="50%" align="top" alt="Tether"></a><a href="https://github.com/MohammadSharafi/stress-twin"><img src="assets/card-stress-twin.svg?v=4" width="50%" align="top" alt="Stress Twin"></a></p>
+<p><a href="https://github.com/MohammadSharafi/tether"><img src="assets/card-tether.svg?v=5" width="50%" align="top" alt="Tether"></a><a href="https://github.com/MohammadSharafi/stress-twin"><img src="assets/card-stress-twin.svg?v=5" width="50%" align="top" alt="Stress Twin"></a></p>
 
-## 🧩 Selected work
+## Selected work
 
-<p><a href="https://github.com/MohammadSharafi/NodeFlow-AI-Distributed-Automation-System"><img src="assets/card-nodeflow.svg?v=4" width="50%" align="top" alt="NodeFlow"></a><a href="https://github.com/MohammadSharafi/neurochain-orchestrator"><img src="assets/card-neurochain.svg?v=4" width="50%" align="top" alt="neurochain-orchestrator"></a><a href="https://github.com/MohammadSharafi/seismic-risk-app"><img src="assets/card-seismic.svg?v=4" width="50%" align="top" alt="seismic-risk-app"></a><a href="https://github.com/MohammadSharafi/pocketmind-knowledge-engine"><img src="assets/card-pocketmind.svg?v=4" width="50%" align="top" alt="pocketmind-knowledge-engine"></a><a href="https://github.com/MohammadSharafi/few-shot-treatment-feasibility-thesis"><img src="assets/card-thesis.svg?v=4" width="50%" align="top" alt="Few-shot treatment feasibility"></a><a href="https://github.com/MohammadSharafi/k-anonymity-risk-analysis"><img src="assets/card-kanon.svg?v=4" width="50%" align="top" alt="k-anonymity risk analysis"></a></p>
+<p><a href="https://github.com/MohammadSharafi/NodeFlow-AI-Distributed-Automation-System"><img src="assets/card-nodeflow.svg?v=5" width="50%" align="top" alt="NodeFlow"></a><a href="https://github.com/MohammadSharafi/neurochain-orchestrator"><img src="assets/card-neurochain.svg?v=5" width="50%" align="top" alt="neurochain-orchestrator"></a><a href="https://github.com/MohammadSharafi/seismic-risk-app"><img src="assets/card-seismic.svg?v=5" width="50%" align="top" alt="seismic-risk-app"></a><a href="https://github.com/MohammadSharafi/pocketmind-knowledge-engine"><img src="assets/card-pocketmind.svg?v=5" width="50%" align="top" alt="pocketmind-knowledge-engine"></a><a href="https://github.com/MohammadSharafi/few-shot-treatment-feasibility-thesis"><img src="assets/card-thesis.svg?v=5" width="50%" align="top" alt="Few-shot treatment feasibility"></a><a href="https://github.com/MohammadSharafi/k-anonymity-risk-analysis"><img src="assets/card-kanon.svg?v=5" width="50%" align="top" alt="k-anonymity risk analysis"></a></p>
 
-## 🛠️ Tech
+## Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,go,flutter,dart,swift,ts,react,nodejs,postgres,docker,aws,git&perline=8&theme=dark" alt="Java, Spring, Python, FastAPI, Go, Flutter, Dart, Swift, TypeScript, React, Node.js, PostgreSQL, Docker, AWS, Git">
 </p>
 
-## 📈 Activity
+## Activity
 
-<p><img src="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-stats/stats.svg?v=4" width="100%" align="top" alt="GitHub activity and most used languages"></p>
+<p><img src="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-stats/stats.svg?v=5" width="100%" align="top" alt="GitHub activity and most used languages"></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-3d/profile-night-rainbow.svg">
@@ -47,7 +47,7 @@ offline workflows and self-hosted servers. Java · Python · Dart/Flutter · Swi
   <img src="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output/snake-light.svg" width="100%" alt="Contribution graph eaten by a snake">
 </picture>
 
-## 🔬 Publishing soon
+## Publishing soon
 
 A controlled experiment I built: a React app with **40 deliberately planted WCAG violations**
 across 25 success criteria. Industry-standard automated scanning caught **7 of 40**. Every
@@ -58,7 +58,7 @@ Next on the bench: a from-the-metal-up systems ladder: a WAL-backed KV store who
 acceptance test is `kill -9` mid-write, an epoll server from raw sockets, and a mini-Redis
 speaking RESP, in Go.
 
-## ⚙️ How I work
+## How I work
 
 - Every claim gets a number; experiments get a written log with an explicit failure metric
 - Zero dependencies unless the dependency earns its ownership cost
