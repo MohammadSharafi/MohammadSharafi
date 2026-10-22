@@ -8,7 +8,6 @@
 </style>
 <g class="card">
 <rect x=".5" y=".5" width="439" height="159" rx="14" fill="#16161a" stroke="#2c2c33"/>
-<rect x="0" y="0" width="5" height="160" rx="2.5" fill="#E88866"/>
 <text x="22" y="36" class="h">neurochain-orchestrator</text>
 
 <text x="22" y="70" class="d">Fully offline AI workflow engine running on-device</text><text x="22" y="91" class="d">LLMs and vision models, event-driven end to end.</text>

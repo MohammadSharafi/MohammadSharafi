@@ -8,7 +8,6 @@
 </style>
 <g class="card">
 <rect x=".5" y=".5" width="439" height="159" rx="14" fill="#16161a" stroke="#2c2c33"/>
-<rect x="0" y="0" width="5" height="160" rx="2.5" fill="#E88866"/>
 <text x="22" y="36" class="h">Stress Twin</text>
 <rect x="380" y="18" width="38" height="22" rx="11" fill="#E88866"/><text x="399" y="33" text-anchor="middle" class="bd">NEW</text>
 <text x="22" y="70" class="d">Crash-test lab for robot policies: adversarial search</text><text x="22" y="91" class="d">over 14 scenario conditions in MuJoCo, failure</text><text x="22" y="112" class="d">analysis and validated safety envelopes.</text>

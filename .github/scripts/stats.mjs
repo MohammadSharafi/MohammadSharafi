@@ -58,7 +58,6 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W + 12}" height="$
 .h{font:700 15px ${FONT};fill:${CORAL}} .lg{font:500 13px ${FONT};fill:#c9c9d1} .pc{fill:#8a8a96}
 </style>
 <rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="14" fill="#16161a" stroke="#2c2c33"/>
-<rect x="0" y="0" width="5" height="${H}" rx="2.5" fill="${CORAL}"/>
 ${tileSvg}
 <path d="M412 28V172" stroke="#2c2c33"/>
 <text x="440" y="46" class="h">Most used languages</text>
