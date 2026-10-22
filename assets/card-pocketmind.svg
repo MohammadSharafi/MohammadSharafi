@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="452" height="172" viewBox="-6 -6 452 172" role="img" aria-label="pocketmind-knowledge-engine: AI-assisted personal knowledge engine with local AI processing: your notes stay on your device.">
+<style>
+.h{font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffffff}
+.d{font:400 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#b9b9c4}
+.g{font:600 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#E88866}
+.l{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8a8a96}
+.bd{font:700 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1b1b20}
+</style>
+<g class="card">
+<rect x=".5" y=".5" width="439" height="159" rx="14" fill="#16161a" stroke="#2c2c33"/>
+<rect x="0" y="0" width="5" height="160" rx="2.5" fill="#E88866"/>
+<text x="22" y="36" class="h">pocketmind-knowledge-engine</text>
+
+<text x="22" y="70" class="d">AI-assisted personal knowledge engine with local AI</text><text x="22" y="91" class="d">processing: your notes stay on your device.</text>
+<circle cx="360" cy="136" r="5" fill="#00B4AB"/><text x="370" y="140" class="l">Dart</text>
+<rect x="22" y="126" width="68" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="56" y="140" text-anchor="middle" class="g">Flutter</text><rect x="96.4" y="126" width="97" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="145" y="140" text-anchor="middle" class="g">Spring Boot</text><rect x="199.60000000000002" y="126" width="76" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="237" y="140" text-anchor="middle" class="g">Local AI</text>
+</g>
+</svg>

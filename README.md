@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Mohammad Sharafi: software engineer, backend systems, mobile apps, privacy-first AI">
+  <img src="assets/banner-light.svg" width="100%" align="top" alt="Mohammad Sharafi: software engineer, backend systems, mobile apps, privacy-first AI">
 </picture>
 
 <a href="https://github.com/MohammadSharafi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E88866&center=true&vCenter=true&width=720&height=40&lines=Building+self-hosted+AI+tools;Shipping+Flutter+%26+SwiftUI+apps;Distributed+systems+in+Java+%26+Go;Privacy+engineering%2C+measured;Every+claim+gets+a+number" alt="Building self-hosted AI tools. Shipping Flutter and SwiftUI apps. Distributed systems in Java and Go. Privacy engineering, measured. Every claim gets a number."></a>
@@ -14,27 +14,18 @@
 
 ## 👋 About
 
-<p align="center"><img src="assets/terminal.svg" width="100%" alt="Terminal: software engineer focused on backend systems, mobile apps and privacy-first AI; recent projects Tether, Stress Twin, NodeFlow, neurochain-orchestrator; motto: every claim gets a number"></p>
+<p align="center"><img src="assets/terminal.svg" width="100%" align="top" alt="Terminal: software engineer focused on backend systems, mobile apps and privacy-first AI; recent projects Tether, Stress Twin, NodeFlow, neurochain-orchestrator; motto: every claim gets a number"></p>
 
 I build backend systems, mobile apps and AI tools that run where the data lives: on-device models,
 offline workflows and self-hosted servers. Java · Python · Dart/Flutter · Swift · Go (learning in public).
 
 ## 🚀 Recent
 
-<p>
-  <a href="https://github.com/MohammadSharafi/tether"><img src="assets/card-tether.svg" width="49%" alt="Tether"></a>
-  <a href="https://github.com/MohammadSharafi/stress-twin"><img src="assets/card-stress-twin.svg" width="49%" alt="Stress Twin"></a>
-</p>
+<p><a href="https://github.com/MohammadSharafi/tether"><img src="assets/card-tether.svg" width="50%" align="top" alt="Tether"></a><a href="https://github.com/MohammadSharafi/stress-twin"><img src="assets/card-stress-twin.svg" width="50%" align="top" alt="Stress Twin"></a></p>
 
 ## 🧩 Selected work
 
-<p>
-  <a href="https://github.com/MohammadSharafi/NodeFlow-AI-Distributed-Automation-System"><img src="assets/card-nodeflow.svg" width="49%" alt="NodeFlow"></a>
-  <a href="https://github.com/MohammadSharafi/neurochain-orchestrator"><img src="assets/card-neurochain.svg" width="49%" alt="neurochain-orchestrator"></a>
-  <a href="https://github.com/MohammadSharafi/seismic-risk-app"><img src="assets/card-seismic.svg" width="49%" alt="seismic-risk-app"></a>
-  <a href="https://github.com/MohammadSharafi/few-shot-treatment-feasibility-thesis"><img src="assets/card-thesis.svg" width="49%" alt="Few-shot treatment feasibility"></a>
-  <a href="https://github.com/MohammadSharafi/k-anonymity-risk-analysis"><img src="assets/card-kanon.svg" width="49%" alt="k-anonymity risk analysis"></a>
-</p>
+<p><a href="https://github.com/MohammadSharafi/NodeFlow-AI-Distributed-Automation-System"><img src="assets/card-nodeflow.svg" width="50%" align="top" alt="NodeFlow"></a><a href="https://github.com/MohammadSharafi/neurochain-orchestrator"><img src="assets/card-neurochain.svg" width="50%" align="top" alt="neurochain-orchestrator"></a><a href="https://github.com/MohammadSharafi/seismic-risk-app"><img src="assets/card-seismic.svg" width="50%" align="top" alt="seismic-risk-app"></a><a href="https://github.com/MohammadSharafi/pocketmind-knowledge-engine"><img src="assets/card-pocketmind.svg" width="50%" align="top" alt="pocketmind-knowledge-engine"></a><a href="https://github.com/MohammadSharafi/few-shot-treatment-feasibility-thesis"><img src="assets/card-thesis.svg" width="50%" align="top" alt="Few-shot treatment feasibility"></a><a href="https://github.com/MohammadSharafi/k-anonymity-risk-analysis"><img src="assets/card-kanon.svg" width="50%" align="top" alt="k-anonymity risk analysis"></a></p>
 
 ## 🛠️ Tech
 
@@ -44,10 +35,7 @@ offline workflows and self-hosted servers. Java · Python · Dart/Flutter · Swi
 
 ## 📈 Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadSharafi&show_icons=true&hide=stars,issues,contribs&hide_rank=true&hide_border=true&bg_color=16161a&title_color=E88866&text_color=c9c9d1&icon_color=E88866&card_width=360" height="160" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSharafi&layout=compact&langs_count=6&hide_border=true&bg_color=16161a&title_color=E88866&text_color=c9c9d1&card_width=360" height="160" alt="Most used languages">
-</p>
+<p><img src="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-stats/stats.svg" width="100%" align="top" alt="GitHub activity and most used languages"></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-3d/profile-night-rainbow.svg">
