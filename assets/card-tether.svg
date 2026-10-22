@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img" aria-label="Tether: iPhone app + Mac server to watch, approve and continue Claude Code sessions from your phone. Self-hosted over Tailscale: no cloud, no account.">
+<style>
+.h{font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffffff}
+.d{font:400 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#b9b9c4}
+.g{font:600 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#E88866}
+.l{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8a8a96}
+.bd{font:700 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1b1b20}
+</style>
+<g class="card">
+<rect x=".5" y=".5" width="439" height="159" rx="14" fill="#16161a" stroke="#2c2c33"/>
+<rect x="0" y="0" width="5" height="160" rx="2.5" fill="#E88866"/>
+<text x="22" y="36" class="h">Tether</text>
+<rect x="380" y="18" width="38" height="22" rx="11" fill="#E88866"/><text x="399" y="33" text-anchor="middle" class="bd">NEW</text>
+<text x="22" y="70" class="d">iPhone app + Mac server to watch, approve and continue</text><text x="22" y="91" class="d">Claude Code sessions from your phone. Self-hosted over</text><text x="22" y="112" class="d">Tailscale: no cloud, no account.</text>
+<circle cx="360" cy="136" r="5" fill="#F05138"/><text x="370" y="140" class="l">Swift</text>
+<rect x="22" y="126" width="68" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="56" y="140" text-anchor="middle" class="g">SwiftUI</text><rect x="96.4" y="126" width="47" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="120" y="140" text-anchor="middle" class="g">Node</text><rect x="149.2" y="126" width="40" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="169" y="140" text-anchor="middle" class="g">MIT</text>
+</g>
+</svg>

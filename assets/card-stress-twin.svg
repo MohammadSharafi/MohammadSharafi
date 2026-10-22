@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img" aria-label="Stress Twin: Crash-test lab for robot policies: adversarial search over 14 scenario conditions in MuJoCo, failure analysis and validated safety envelopes.">
+<style>
+.h{font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffffff}
+.d{font:400 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#b9b9c4}
+.g{font:600 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#E88866}
+.l{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8a8a96}
+.bd{font:700 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1b1b20}
+</style>
+<g class="card">
+<rect x=".5" y=".5" width="439" height="159" rx="14" fill="#16161a" stroke="#2c2c33"/>
+<rect x="0" y="0" width="5" height="160" rx="2.5" fill="#E88866"/>
+<text x="22" y="36" class="h">Stress Twin</text>
+<rect x="380" y="18" width="38" height="22" rx="11" fill="#E88866"/><text x="399" y="33" text-anchor="middle" class="bd">NEW</text>
+<text x="22" y="70" class="d">Crash-test lab for robot policies: adversarial search</text><text x="22" y="91" class="d">over 14 scenario conditions in MuJoCo, failure</text><text x="22" y="112" class="d">analysis and validated safety envelopes.</text>
+<circle cx="360" cy="136" r="5" fill="#3572A5"/><text x="370" y="140" class="l">Python</text>
+<rect x="22" y="126" width="61" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="53" y="140" text-anchor="middle" class="g">MuJoCo</text><rect x="89.2" y="126" width="76" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="127" y="140" text-anchor="middle" class="g">Nemotron</text><rect x="170.8" y="126" width="83" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="212" y="140" text-anchor="middle" class="g">Hackathon</text>
+</g>
+</svg>

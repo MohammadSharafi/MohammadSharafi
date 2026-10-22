@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img" aria-label="Few-shot treatment feasibility: MSc thesis: treatment feasibility prediction on MIMIC-IV with symptom tokens and federated learning.">
+<style>
+.h{font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffffff}
+.d{font:400 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#b9b9c4}
+.g{font:600 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#E88866}
+.l{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8a8a96}
+.bd{font:700 11px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1b1b20}
+</style>
+<g class="card">
+<rect x=".5" y=".5" width="439" height="159" rx="14" fill="#16161a" stroke="#2c2c33"/>
+<rect x="0" y="0" width="5" height="160" rx="2.5" fill="#E88866"/>
+<text x="22" y="36" class="h">Few-shot treatment feasibility</text>
+
+<text x="22" y="70" class="d">MSc thesis: treatment feasibility prediction on MIMIC-</text><text x="22" y="91" class="d">IV with symptom tokens and federated learning.</text>
+<circle cx="360" cy="136" r="5" fill="#3D6117"/><text x="370" y="140" class="l">TeX</text>
+<rect x="22" y="126" width="76" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="60" y="140" text-anchor="middle" class="g">MIMIC-IV</text><rect x="103.6" y="126" width="83" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="145" y="140" text-anchor="middle" class="g">Federated</text><rect x="192.39999999999998" y="126" width="76" height="20" rx="10" fill="#E88866" fill-opacity=".14"/><text x="230" y="140" text-anchor="middle" class="g">Research</text>
+</g>
+</svg>
