@@ -9,7 +9,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammadsharafi.vercel.app-E88866?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammadsharafi.vercel.app)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-1b1b20?style=for-the-badge&logo=buymeacoffee&logoColor=E88866)](https://buymeacoffee.com/mohammadsh47)
-<img src="https://komarev.com/ghpvc/?username=MohammadSharafi&style=for-the-badge&color=E88866&label=Profile+views" alt="Profile views">
 
 </div>
 
