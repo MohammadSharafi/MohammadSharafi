@@ -35,7 +35,7 @@ offline workflows and self-hosted servers. Java · Python · Dart/Flutter · Swi
 
 ## 📈 Activity
 
-<p><img src="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-stats/stats.svg" width="100%" align="top" alt="GitHub activity and most used languages"></p>
+<p><img src="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-stats/stats.svg?v=4" width="100%" align="top" alt="GitHub activity and most used languages"></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-3d/profile-night-rainbow.svg">
