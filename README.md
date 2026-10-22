@@ -5,7 +5,7 @@
   <img src="assets/banner-light.svg" width="100%" alt="Mohammad Sharafi: software engineer, backend systems, mobile apps, privacy-first AI">
 </picture>
 
-<br>
+<a href="https://github.com/MohammadSharafi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E88866&center=true&vCenter=true&width=720&height=40&lines=Building+self-hosted+AI+tools;Shipping+Flutter+%26+SwiftUI+apps;Distributed+systems+in+Java+%26+Go;Privacy+engineering%2C+measured;Every+claim+gets+a+number" alt="Building self-hosted AI tools. Shipping Flutter and SwiftUI apps. Distributed systems in Java and Go. Privacy engineering, measured. Every claim gets a number."></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammadsharafi.vercel.app-E88866?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammadsharafi.vercel.app)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-1b1b20?style=for-the-badge&logo=buymeacoffee&logoColor=E88866)](https://buymeacoffee.com/mohammadsh47)
@@ -13,6 +13,8 @@
 </div>
 
 ## 👋 About
+
+<p align="center"><img src="assets/terminal.svg" width="100%" alt="Terminal: software engineer focused on backend systems, mobile apps and privacy-first AI; recent projects Tether, Stress Twin, NodeFlow, neurochain-orchestrator; motto: every claim gets a number"></p>
 
 I build backend systems, mobile apps and AI tools that run where the data lives: on-device models,
 offline workflows and self-hosted servers. Java · Python · Dart/Flutter · Swift · Go (learning in public).
@@ -48,6 +50,11 @@ offline workflows and self-hosted servers. Java · Python · Dart/Flutter · Swi
 </p>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-3d/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output-3d/profile-season-animate.svg" width="100%" alt="3D contribution calendar">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/MohammadSharafi/MohammadSharafi/output/snake-light.svg" width="100%" alt="Contribution graph eaten by a snake">
 </picture>
@@ -68,3 +75,5 @@ speaking RESP, in Go.
 - Every claim gets a number; experiments get a written log with an explicit failure metric
 - Zero dependencies unless the dependency earns its ownership cost
 - Much of my production work is private (enterprise and healthcare); what's here is what I can show
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b20,100:E88866&height=120&section=footer" width="100%" alt="">
